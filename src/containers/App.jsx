@@ -1,6 +1,7 @@
 import React from 'react';
 import { Provider } from 'react-redux';
-import { Router, Route } from 'react-static';
+import { Router, Route, Switch } from 'react-static';
+import Routes from 'react-static-routes';
 import 'normalize.css';
 import '@fortawesome/fontawesome-svg-core/styles.css';
 import store from '../redux/store';
@@ -12,7 +13,10 @@ import '../index.css';
 export default () => (
   <Provider store={store}>
     <Router history={history}>
-      <Route path="*" render={({ location }) => SmashTierList({ route: location.pathname })} />
+      <Switch>
+        <Route path="*" render={({ location }) => SmashTierList({ route: location.pathname })} />
+        <Routes />
+      </Switch>
     </Router>
   </Provider>
 );

@@ -13,6 +13,7 @@ export default {
     { path: '/melee' },
     { path: '/brawl' },
     { path: '/ssb4' },
+    { is404: true, component: 'src/containers/NotFound' },
   ]),
   renderToHtml: (render, Comp, meta) => {
     const sheet = new ServerStyleSheet();
