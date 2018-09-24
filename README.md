@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://smash-tier-list.com" alt="Smash Tier List">
+  <a href="https://smash-tier-listn.com" alt="Smash Tier List">
     <img src="https://user-images.githubusercontent.com/4168389/45923712-a0da7c80-beed-11e8-82bf-4acc17664466.png" alt="Super Smash Bros Ball" />
   </a>
 </p>
 
-<h1 align="center">🎮 🎯 <a href="https://smash-tier-list.com" alt="Smash Tier List">Smash Tier List</a> &nbsp; <a href="https://twitter.com/intent/tweet?text=Check%20which%20Tier%20position%20is%20your%20favourite%20Super%20Smash%20Bros%20character&url=https://smash-tier-list.com&via=desko27&hashtags=smashbros,smash,ssb,ssb4,tierlist"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" /></a></h1>
+<h1 align="center">🎮 🎯 <a href="https://smash-tier-listn.com" alt="Smash Tier List">Smash Tier List</a> &nbsp; <a href="https://twitter.com/intent/tweet?text=Check%20which%20Tier%20position%20is%20your%20favourite%20Super%20Smash%20Bros%20character&url=https://smash-tier-listn.com&via=desko27&hashtags=smashbros,smash,ssb,ssb4,tierlist"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" /></a></h1>
 
 <p align="center">
   <a href="https://travis-ci.org/desko27/smash-tier-list"><img src="https://travis-ci.org/desko27/smash-tier-list.svg?branch=develop" alt="Build Status" /></a>
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://smash-tier-list.com" alt="Smash Tier List">See it online ↗</a>
+  <a href="https://smash-tier-listn.com" alt="Smash Tier List">See it online ↗</a>
 </p>
 
 <p align="center">

@@ -31,7 +31,7 @@ export default {
       + ' strength of their fighting abilities as well as their potential to win matches'
       + ' under tournament conditions.',
   }),
-  siteRoot: 'https://smash-tier-list.com',
+  siteRoot: 'https://smash-tier-listn.com',
   getRoutes: () => ([
     { path: '/' },
     { path: '/64' },
